@@ -1,3 +1,11 @@
+推荐一款AI对话平台 EVO Chat
+------------
+
+Evo Chat（Evolution Chat）是一个现代化的开源 AI 对话平台。致力于打造最优雅的大模型交互入口。它支持对接 ChatGPT，Deepseak， 等主流大语言模型（LLM）服务商，并在此基础上不断进化，识库增强、多模态处理、MCP（Model Control Protocol）等扩展能力，让 AI 能力更加丰富。支持全平台部署（Web、App、Windows、Mac、Linux），为用户提供无处不在的 AI 能力入口。
+* 访问地址：https://hevoai.com
+* github: https://github.com/evo-family/evo-chat
+
+
 小程序
 ------------
 Taro_Mall是一款多端开源在线商城应用程序，后台是基于litemall基础上进行开发，前端采用Taro框架编写，现已全部完成微信小程序，头条小程序，和h5移动端，后续会对APP，淘宝，百度小程序进行适配。Taro_Mall已经完成了 litemall 前端的所有功能
